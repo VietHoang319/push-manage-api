@@ -1,0 +1,13 @@
+package com.example.pushnotificationapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PushNotificationApiApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
